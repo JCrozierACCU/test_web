@@ -9,7 +9,7 @@ Right-click and select Notepad (or other editing software) to edit file
 Use this to roll a d20 or a cheater d20.
 Cheater d20 give a 50% increased chance of numbers between 15 and 20, inclusive.
 
-## Contributing
+## Contribution
 If you have access to this repository, you can contribute by creating a branch:
 
 Clone the repository.
