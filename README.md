@@ -16,10 +16,6 @@ Clone the repository.
 Create a new branch for your changes:
 Make your changes and commit them with a clear message.
 
-bash
-Copy code
-git commit -m "Add your message here"
-
 Push your branch to GitHub.
 Open a Pull Request into the main branch.
 
